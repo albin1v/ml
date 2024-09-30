@@ -1,0 +1,11 @@
+Gender,Age,Blood Pressure (mmHg),Cholesterol (mg/dL),Has Diabetes,Smoking Status,Chest Pain Type,Treatment
+Male,45,130,250,No,Never,Typical Angina,1
+Female,50,140,230,Yes,Former,Atypical Angina,0
+Male,54,160,280,No,Current,Non-anginal Pain,1
+Female,60,135,240,Yes,Never,Typical Angina,1
+Male,39,120,200,No,Former,Non-anginal Pain,0
+Female,65,155,270,Yes,Current,Asymptomatic,1
+Male,48,145,210,No,Never,Typical Angina,0
+Female,55,150,225,No,Former,Atypical Angina,1
+Male,40,135,190,Yes,Current,Non-anginal Pain,0
+Female,62,160,260,Yes,Never,Asymptomatic,1
